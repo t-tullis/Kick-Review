@@ -7,6 +7,12 @@ User Stories
 
 - Jane 22 years old, new to the sneaker community, wants to know whats trending to keep up with the latest sneaker trends so she doesnt fall behind.
  
+ User Flow
+ 1. Comes to Kick-Review
+ 2. User scans through recent sneaker posts
+ 3. User clicks on article they're interested in.
+ 4. User reads the article on the shoe and see pictures from different angles. Also find out the price and release date.
+ 5. *(if interested in the shoe)There will be a link provided that will redirect you to the store that has that particular sneaker in stock so the user can purchase.
 
 ERD
 - https://www.lucidchart.com/invitations/accept/1ce71cbf-88bc-4aef-8359-65cd205bf529
