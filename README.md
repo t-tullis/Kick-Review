@@ -20,6 +20,9 @@ ERD
 Wireframes
 - https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/fileexport/Export_Ddf9d32a60142cb08dd6183e9edf0f66e.pdf
 
+New Github Repo 
+- https://github.com/t-tullis/Kick-Review-version2
+
 Milestones
 - Create User & Posts DB 
 - Create private login with auth so I can post articles and no else can.
